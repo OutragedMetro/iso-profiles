@@ -24,6 +24,11 @@ btrfsmaintenance
 #>extra manjaro-modem              # ?
 >extra manjaro-pulse
 >extra libdvdcss
+>extra steam-manjaro
+>extra armagetronad
+>extra vlc
+>extra four-in-a-row
+>extra supertuxkart
 
 ## Fonts
 ttf-dejavu
