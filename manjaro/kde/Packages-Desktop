@@ -70,7 +70,12 @@ terminus-font
 >extra ttf-droid
 
 ## Games
->x86_64 >extra steam-manjaro
+>extra steam-manjaro
+>extra armagetronad
+>extra vlc
+>extra four-in-a-row
+>extra supertuxkart
+>extra qbittorrent
 
 ## Package management
 >extra appimagelauncher
