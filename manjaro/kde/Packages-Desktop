@@ -183,7 +183,7 @@ partitionmanager
 >extra print-manager
 >extra skanlite
 spectacle
-gparted
+>extra gparted
 
 ## Optional dependencies for ark
 p7zip  # 7Z format support
